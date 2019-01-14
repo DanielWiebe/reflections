@@ -1,0 +1,1 @@
+using the FC tool was beneficial for seeing at a glance textually what has changed between the two files.
